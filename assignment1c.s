@@ -10,7 +10,7 @@
 .data   
 message1:.asciiz "Hello World.\n" #create a string containing "Hello world.\n"
 message2:.asciiz "Goodbye World.\n" #create a string containing "Goodbye world.\n"
-message3:.asciiz "I will study more about MIPS programming.\n" #create a string containing "Goodbye world.\n"
+message3:.asciiz "I will study more about MIPS programming.\n" #create a string containing "I will study more about MIPS programming.\n"
 
 #program code is contained below under .text
 .text 
